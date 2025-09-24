@@ -1,0 +1,16 @@
+
+[
+    { "name": "Maharashtra", "value": 10 },
+    { "name": "Karnataka", "value": 9 },
+    { "name": "Delhi", "value": 8 },
+    { "name": "Telangana", "value": 7 },
+    { "name": "NCR", "value": 9 },
+    { "name": "Pune", "value": 8 },
+    { "name": "Bangalore", "value": 10 },
+    { "name": "Gujarat", "value": 8 },
+    { "name": "Hyderabad", "value": 8 },
+    { "name": "Mumbai", "value": 9 },
+    { "name": "National", "value": 8 },
+    { "name": "Metro Cities", "value": 7 },
+    { "name": "Global", "value": 9 }
+]

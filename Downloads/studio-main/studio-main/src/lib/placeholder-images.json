@@ -1,0 +1,35 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar",
+      "description": "User avatar for the sidebar",
+      "imageUrl": "https://picsum.photos/seed/1/100/100",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "dashboard-preview",
+      "description": "A preview of the app dashboard",
+      "imageUrl": "https://picsum.photos/seed/dashboard1/1200/783",
+      "imageHint": "dashboard ui"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "A customer testimonial avatar",
+      "imageUrl": "https://picsum.photos/seed/person1/48/48",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "A customer testimonial avatar",
+      "imageUrl": "https://picsum.photos/seed/person2/48/48",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "A customer testimonial avatar",
+      "imageUrl": "https://picsum.photos/seed/person3/48/48",
+      "imageHint": "person avatar"
+    }
+  ]
+}

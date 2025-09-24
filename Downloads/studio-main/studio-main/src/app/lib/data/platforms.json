@@ -1,0 +1,47 @@
+
+[
+  {
+    "id": "zomato",
+    "name": "Zomato (Blinkit)",
+    "category": "Grocery",
+    "marketCap": 1650000000000,
+    "revenue": 121000000000,
+    "yoyGrowth": 0.68,
+    "userBase": 58000000,
+    "sentiment": 0.78,
+    "description": "An Indian online food ordering and delivery platform, which also operates a grocery delivery service called Blinkit."
+  },
+  {
+    "id": "zepto",
+    "name": "Zepto",
+    "category": "Grocery",
+    "marketCap": 117000000000,
+    "revenue": 20000000000,
+    "yoyGrowth": 1.5,
+    "userBase": 10000000,
+    "sentiment": 0.80,
+    "description": "An Indian company that provides quick commerce services."
+  },
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "category": "E-commerce",
+    "marketCap": 190000000000000,
+    "revenue": 45000000000000,
+    "yoyGrowth": 0.13,
+    "userBase": 310000000,
+    "sentiment": 0.85,
+    "description": "A global e-commerce giant with a significant presence in India."
+  },
+  {
+    "id": "flipkart",
+    "name": "Flipkart",
+    "category": "E-commerce",
+    "marketCap": 3100000000000,
+    "revenue": 1010000000000,
+    "yoyGrowth": 0.20,
+    "userBase": 150000000,
+    "sentiment": 0.82,
+    "description": "A leading Indian e-commerce company, subsidiary of Walmart."
+  }
+]
